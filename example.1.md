@@ -1,6 +1,6 @@
-% 3d printing
-% Emma Caison and Sarah Albrecht
-% December 10, 2016
+% An example reveal.js slide presentation 
+% John D. Martin III
+% 19 July, 2016
 
 # Markdown in, HTML5
 
