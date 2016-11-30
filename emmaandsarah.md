@@ -84,7 +84,7 @@ Victims of head trauma have parts of their skulls removed to give the brain room
 to swell. They must be fitted with cranial plates that fit perfectly after this, 
 and 3D printing allows for a more perfect fit.</aside>
 
-# Example uses: Derby!!!!!
+# Example uses: Pawsthetics
 
 ```
     DERBY PHOTO
@@ -93,15 +93,23 @@ and 3D printing allows for a more perfect fit.</aside>
 Every top level markdown header in this file will be translated into a "section" in your HTML5 output. This output will be plain, using only the base reveal.js style. The command above, mutatis mutandis, will let you do the conversion.
 </aside>
 
-# Invisalign braces
+# Example uses: Invisalign braces
+
+```
+Customizable items
+```
+
+# So how can you get involved with 3D printing?
+
+```
+resources at UNC: http://library.unc.edu/makerspace
+```
+<aside class="notes">
+If you're interested in 3D printing, the Kenan Science Library at UNC will print up to 
+300 grams per month for you for free. They'll help you create a model and function 
+as a print shop. If you'd like to learn how to 3D print there are safety workshops
+you must first go through.
+</aside>
 
 
-# why 3d printing is great and also the future
-
-# our experience with 3d printing workshop
-
-# maybe 3d printing resources around campus. like links to the library schedule
-
-# yay!!!!!!!
-
-# fin
+# Thank you!!!!!!!!!
