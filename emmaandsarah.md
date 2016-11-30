@@ -36,6 +36,8 @@ its own unique way of printing, but all of them go layer by layer.
   <aside class="notes">
 3D printers can use ABS plastic, wax, metals, nylon or stone. You can pretty 
 much print anything if you're willing to pay the price for the material. Recently
+some implants have been printed with live cells, which is an advance in the
+medical field.
 </aside>
 
 # General Uses
@@ -72,8 +74,27 @@ print. These scans allow for greater accuracy in creating custom prosthetics bec
 often standardized prosthetics are not good enough for unique patients.
 </aside>
 
+# Example uses: Head injuries
 
-# probably connect to animals somehow. probably
+```
+    Skulls
+```
+<aside class="notes">
+Victims of head trauma have parts of their skulls removed to give the brain room
+to swell. They must be fitted with cranial plates that fit perfectly after this, 
+and 3D printing allows for a more perfect fit.</aside>
+
+# Example uses: Derby!!!!!
+
+```
+    DERBY PHOTO
+```
+<aside class="notes">
+Every top level markdown header in this file will be translated into a "section" in your HTML5 output. This output will be plain, using only the base reveal.js style. The command above, mutatis mutandis, will let you do the conversion.
+</aside>
+
+# Invisalign braces
+
 
 # why 3d printing is great and also the future
 
