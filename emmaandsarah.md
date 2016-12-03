@@ -93,6 +93,21 @@ and 3D printing allows for a more perfect fit.</aside>
 Every top level markdown header in this file will be translated into a "section" in your HTML5 output. This output will be plain, using only the base reveal.js style. The command above, mutatis mutandis, will let you do the conversion.
 </aside>
 
+# Example uses: Children
+
+```
+Rochester Institute of Technology's e-NABLE
+```
+<aside class="notes">
+At Rochester Institute of Technology's e-NABLE, 3D printed hands are
+created for children. Because prosthetic limbs can cost $40,000 many parents decline
+to purchase prosthetic limbs that the children will soon grow out of. e-NABLE
+3D prints hands and gives them to children for free since the cost of printing
+plastic is usually no more than $20. In turn, this inspires the children to be
+interested in technology and 3D printing.
+http://www.pbs.org/newshour/bb/3-d-printers-put-limb-prosthetics-for-kids-in-reach/
+</aside>
+
 # Example uses: Invisalign braces
 
 ```
