@@ -86,17 +86,18 @@ print. These scans allow for greater accuracy in creating custom prosthetics bec
 often standardized prosthetics are not good enough for unique patients.
 </aside>
 
+# Video Intro!
 
-# Video!
- 
+<a href="http://tinypic.com?ref=f2pi7s" target="_blank"><img src="http://i64.tinypic.com/f2pi7s.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w8Nvq7aGqoA" frameborder="0" allowfullscreen></iframe>
 
- 
 <aside class="notes">
 This is a short video that provides some good visuals of the 3d printing process as well as some actual 3d printed prosthetics!
 </aside>
 
+# Video!
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w8Nvq7aGqoA" frameborder="0" allowfullscreen></iframe>
 
 
 
