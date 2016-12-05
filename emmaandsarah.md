@@ -152,8 +152,8 @@ http://www.pbs.org/newshour/bb/3-d-printers-put-limb-prosthetics-for-kids-in-rea
 # How do I get involved?
  
 
-[Library Information](http://library.unc.edu/makerspace/3d-printing/)
-[Workshop Information](http://library.unc.edu/makerspace/workshops/)
+* [Library Information](http://library.unc.edu/makerspace/3d-printing/)
+* [Workshop Information](http://library.unc.edu/makerspace/workshops/)
 
 <aside class="notes">
 	Here are some links if you would like to learn more about 3d printing at UNC! The first link is to the Kenan Library website that tells you specifics about submitting 3d printing requests. The second link is to a list of 3d printing workshops, like the one Emma and I attended! There are more opportunities to learn about 3d printing at UNC than one would expect, and since it's included with your tuition, it's a great thing to take advantage of!
