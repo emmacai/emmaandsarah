@@ -113,7 +113,6 @@ and 3D printing allows for a more perfect fit.</aside>
 
 # Example uses: Pawsthetics
 
-![Derby with his original legs](http://www.3ders.org/images2014/3d-printed-custom-prosthetic-legs-derby-the-dog-2.png)
 ![Derby with his prosthetics!](https://i.ytimg.com/vi/uRmoowIN8aY/maxresdefault.jpg)
 
 <aside class="notes">
@@ -163,10 +162,11 @@ http://www.pbs.org/newshour/bb/3-d-printers-put-limb-prosthetics-for-kids-in-rea
 # Works Cited
  
 
-[Derby](https://www.engadget.com/2015/12/29/derby-the-dog-gets-better-3d-printed-paw-prosthetics/)
-[Prosthetics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4189697/)
-[Selective Laser Sintering](http://www.livescience.com/38862-selective-laser-sintering.html)
-[3D Printers 1](http://www.independent.co.uk/life-style/gadgets-and-tech/features/3d-printing-for-dummies-how-do-3d-printers-work-8668937.html)
+* [Derby](https://www.engadget.com/2015/12/29/derby-the-dog-gets-better-3d-printed-paw-prosthetics/)
+* [Prosthetics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4189697/)
+* [Selective Laser Sintering](http://www.livescience.com/38862-selective-laser-sintering.html)
+* [3D Printers 1](http://www.independent.co.uk/life-style/gadgets-and-tech/features/3d-printing-for-dummies-how-do-3d-printers-work-8668937.html)
+
 
 
 
