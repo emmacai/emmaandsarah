@@ -122,8 +122,7 @@ and 3D printing allows for a more perfect fit.</aside>
 
 
 ```
-	<a href="http://tinypic.com?ref=aazxpk" target="_blank"><img src="http://i68.tinypic.com/aazxpk.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
-	<a href="http://tinypic.com?ref=1zdxfa" target="_blank"><img src="http://i64.tinypic.com/1zdxfa.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+	![Derby with his original legs](http://www.3ders.org/images2014/3d-printed-custom-prosthetic-legs-derby-the-dog-2.png)
 ```
 <aside class="notes">
 	This is a dog named Derby who was born with deformed front legs, which made it hard for him to walk. A 3D printing company in South Carolina found out about his situation and created prosthetics for him from a 3d Printer. They used a type of printing process called "Selective Laser Sintering", which uses a laser to heat powder just below it's boiling point (sintering), which fuses the powder into a solid form. In Derby's case, they used a Nylon powder because it has flexibile properties, which allows the prosthetic to be bouncy, so Derby can run!
